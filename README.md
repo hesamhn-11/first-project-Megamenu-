@@ -9,5 +9,5 @@
  -  🕒Created - 2025-11-15
  -  🔍Technologies Used - Html , css 
  - How to reach me : with my 
-📷[instagram](https://www.instagram.com/hesamhassannejad.dv) and 
-💼[linkedin](https://www.linkedin.com/in/hesam-hassannejad) 
+📷[Instagram](https://www.instagram.com/hesamhassannejad.dv) and 
+💼[Linkedin](https://www.linkedin.com/in/hesam-hassannejad) 
