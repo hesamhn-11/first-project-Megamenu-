@@ -10,7 +10,7 @@ I'm Hesam a fresh Front-end student who is trying to learn and improve in web sk
 
 ## Screenshots
 
-![App Screenshot]<img width="1920" height="875" alt="Image" src="https://github.com/user-attachments/assets/cdd6914e-8b3e-486a-81e9-309a205f7641" />
+<img width="1920" height="875" alt="Image" src="https://github.com/user-attachments/assets/cdd6914e-8b3e-486a-81e9-309a205f7641" />
 
 
 ## Demo
